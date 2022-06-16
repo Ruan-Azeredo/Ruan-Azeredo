@@ -12,7 +12,7 @@
 
 ---
   
-#### Some Hard Skills:
+#### Some dev's Hard Skills:
 
 ```javascript
 let Ruan_Azeredo = {
