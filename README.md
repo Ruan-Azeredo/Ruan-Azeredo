@@ -3,7 +3,7 @@
 ##### My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing engineering. I wish you like my repository, still are in build, but certly you will find something coll or interesting. Feel free to send a Pull Request for we can build something amazing toguether. Welcome to my GitHub.
 ##### Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, que sabe. Bem vindo ao meu GitHub.
 
-* GitHub stats:  
+### GitHub stats:  
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/>
@@ -11,7 +11,7 @@
     
 ---
   
-#### Some technologies I'm use:
+#### Some technologies I'm use/ Alguma tecnologias que utilizo:
 
 <p align="left">
   <a>
@@ -32,6 +32,7 @@
   <a>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
   </a>
+    </br>
   <a>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   </a>
@@ -44,13 +45,15 @@
   <a>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
+  </br>
   <a>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
   </a>
-    <a>
+  </br>
+  <a>
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 </p>
