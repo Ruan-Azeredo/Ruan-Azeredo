@@ -24,13 +24,13 @@
     <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Javascript"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />  
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Python-2f3640?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white" alt="Python"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Vercel-2f3640?style=for-the-badge&labelColor=000&logo=vercel&logoColor=2f3640" alt="Netlify"/>
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Git"/>
