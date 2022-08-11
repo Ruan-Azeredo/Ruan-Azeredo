@@ -45,10 +45,10 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/github-2f3640?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="Github"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
   </a>
     <a>
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
