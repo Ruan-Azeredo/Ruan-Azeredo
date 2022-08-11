@@ -13,6 +13,33 @@
   
 #### Some technologies I'm use:
 
+<p align="left">
+  <a>
+    <img src="https://img.shields.io/badge/HTML5-2f3640?style=for-the-badge&labelColor=EA6127&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS3-2f3640?style=for-the-badge&labelColor=0170BA&logo=css3&logoColor=white" alt="CSS"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Javascript"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Laravel-2f3640?style=for-the-badge&labelColor=FF2D20&logo=laravel&logoColor=white" alt="Laravel"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Python-2f3640?style=for-the-badge&labelColor=3776AB&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Vercel-2f3640?style=for-the-badge&labelColor=000&logo=vercel&logoColor=2f3640" alt="Netlify"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/github-2f3640?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="Github"/>
+  </a>
+</p>
+
 ```javascript
 let Ruan_Azeredo = {
   course: "Computer Engineering",
