@@ -5,7 +5,7 @@
 
 * GitHub stats:  
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Azeredo&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     
@@ -54,18 +54,6 @@
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 </p>
-
-```javascript
-let Ruan_Azeredo = {
-  course: "Computer Engineering",
-  area: "Web development",
-  technologies: {
-    back-end: ["MySQL", "PHP"],
-    front-end: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    frameworks: ["Laravel", "Next", "Bootstrap", "Tailwind"],
-  },
-}
-```
     
 <!--
 **Ruan-Azeredo/Ruan-Azeredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
