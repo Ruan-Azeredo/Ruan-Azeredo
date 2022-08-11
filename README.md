@@ -38,6 +38,9 @@
   <a>
     <img src="https://img.shields.io/badge/github-2f3640?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="Github"/>
   </a>
+    <a>
+    <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
 </p>
 
 ```javascript
