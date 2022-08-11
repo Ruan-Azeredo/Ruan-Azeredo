@@ -36,6 +36,9 @@
     <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/git-2f3640?style=for-the-badge&labelColor=F05033&logo=git&logoColor=white" alt="Git"/>
   </a>
   <a>
