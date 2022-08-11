@@ -15,7 +15,7 @@
 
 <p align="left">
   <a>
-    <img src="https://img.shields.io/badge/HTML5-2f3640?style=for-the-badge&labelColor=EA6127&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   </a>
   <a>
     <img src="https://img.shields.io/badge/CSS3-2f3640?style=for-the-badge&labelColor=0170BA&logo=css3&logoColor=white" alt="CSS"/>
