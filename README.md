@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Javascript-2f3640?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=2f3640" alt="Javascript"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
   <a>
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
