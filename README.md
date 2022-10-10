@@ -14,6 +14,7 @@
     />
   </a>
 </div>
+__________________
 
 My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing engineering. I wish you like my repository, still are in build, but certly you will find something coll or interesting. Feel free to send a Pull Request for we can build something amazing toguether. Welcome to my GitHub.
 </br>
