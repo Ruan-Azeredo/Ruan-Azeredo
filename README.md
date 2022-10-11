@@ -8,7 +8,7 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
-      width="250"
+      width="180"
       align="right"
       src="https://api.daily.dev/devcards/9e03918347264c15ba8564ab1ec8a9a5.png?r=1oh"
     />
@@ -20,11 +20,17 @@ My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing e
 </br>
 Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, que sabe. Bem vindo ao meu GitHub.
 
-## GitHub Stats:  
+## GitHub Stats:
+
+###
+
 <div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula" />
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/> -->
+    <div style="display: flex">
+       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula" />
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
 </div>
+
   
 ## Some technologies I'm use/ Alguma tecnologias que utilizo:
 
