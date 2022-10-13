@@ -27,7 +27,7 @@ __________________
 <div align="center">
     <div style="display: flex">
        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula" />
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/>
+<!--        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/> -->
     </div>
 </div>
 
