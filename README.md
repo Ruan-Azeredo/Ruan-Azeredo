@@ -8,7 +8,7 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
-      width="170"
+      width="400"
       align="right"
       src="https://api.daily.dev/devcards/9e03918347264c15ba8564ab1ec8a9a5.png?r=1oh"
     />
@@ -16,9 +16,9 @@
 </div>
 __________________
 
-My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing engineering. I wish you like my repository, still are in build, but certly you will find something coll or interesting. Feel free to send a Pull Request for we can build something amazing toguether. Welcome to my GitHub.
+<div>My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing engineering. I wish you like my repository, still are in build, but certly you will find something coll or interesting. Feel free to send a Pull Request for we can build something amazing toguether. Welcome to my GitHub.</div>
 </br>
-Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, que sabe. Bem vindo ao meu GitHub.
+<div>Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, que sabe. Bem vindo ao meu GitHub.</div>
 
 ## GitHub Stats:
 
