@@ -8,7 +8,7 @@
 <div align="left">
   <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
     <img
-      width="180"
+      width="181"
       align="right"
       src="https://api.daily.dev/devcards/9e03918347264c15ba8564ab1ec8a9a5.png?r=1oh"
     />
