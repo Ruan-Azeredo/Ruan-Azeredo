@@ -1,8 +1,3 @@
-
-<!-- <div align="left">
-    <a href="https://app.daily.dev/Ruan"><img src="https://api.daily.dev/devcards/9e03918347264c15ba8564ab1ec8a9a5.png?r=1oh" width="400" alt="Ruan Azeredo dos Santos Gomes's Dev Card"/></a>
-</div>
- -->
 # Hi everyone/ Oi pessoal 👋
 
 <div align="left">
