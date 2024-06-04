@@ -13,7 +13,7 @@ __________________
 
 <div>My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing engineering. I wish you like my repository, still are in build, but certly you will find something coll or interesting. Feel free to send a Pull Request for we can build something amazing toguether. Welcome to my GitHub.</div>
 </br>
-<div>Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, quem sabe. Bem vindo ao meu GitHub. https://drive.google.com/file/d/12UPsGt2bA0eXHv5Yp0ySPaEZvxODllS1/view?usp=sharing</div>
+<div>Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, quem sabe. Bem vindo ao meu GitHub.</div>
 
 ## GitHub Stats:
 
