@@ -1,4 +1,4 @@
-[[](url)](url)# Hi everyone 👋
+# Hi everyone 👋
 
 <div>My name is Ruan, I'm a Brazilian guy and a Web developer in learning, coursing Computer Science I hope you like my repository, still in build, but certly you will find something cool or interesting. Feel free to send a Pull Request so we can build something amazing together. Welcome to my GitHub.</div>
 
