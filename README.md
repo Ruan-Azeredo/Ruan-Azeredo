@@ -1,4 +1,4 @@
-# Hi everyone 👋
+[[](url)](url)# Hi everyone 👋
 
 <div>My name is Ruan, I'm a Brazilian guy and a Web developer in learning, coursing Computer Science I hope you like my repository, still in build, but certly you will find something cool or interesting. Feel free to send a Pull Request so we can build something amazing together. Welcome to my GitHub.</div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
     <div style="display: flex">
-       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula" />
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ruan-Azeredo&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 <!--        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/> -->
     </div>
 </div>
