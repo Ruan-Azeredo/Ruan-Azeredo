@@ -8,7 +8,7 @@
 
 <div align="center">
     <div style="display: flex">
-       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ruan-Azeredo&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ruan-Azeredo&theme=tokyonight&exclude_days=Sat%2CSun" alt="GitHub Streak" /></a>
 <!--        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Azeredo&layout=compact&langs_count=7&theme=dracula"/> -->
     </div>
 </div>
