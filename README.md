@@ -1,19 +1,6 @@
-# Hi everyone/ Oi pessoal 👋
+# Hi everyone 👋
 
-<div align="left">
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="350"
-      align="right"
-      src="https://api.daily.dev/devcards/9e03918347264c15ba8564ab1ec8a9a5.png?r=1oh"
-    />
-  </a>
-</div>
-__________________
-
-<div>My name is Ruan, I'm a brazilian guy and a Web developer in learning, coursing engineering. I wish you like my repository, still are in build, but certly you will find something coll or interesting. Feel free to send a Pull Request for we can build something amazing toguether. Welcome to my GitHub.</div>
-</br>
-<div>Meu nome é Ruan, Sou brasileiro e um desenvolvedor web em aprendizado, cursando engenharia. Espero que você curta meu repositorio, ele ainda está em construção, mas certamente você encontrará algo legal ou interessante. Fique a vontade para mandar um Pull Request pra que possamos criar algo incrivel juntos, quem sabe. Bem vindo ao meu GitHub.</div>
+<div>My name is Ruan, I'm a Brazilian guy and a Web developer in learning, coursing Computer Science I hope you like my repository, still in build, but certly you will find something cool or interesting. Feel free to send a Pull Request so we can build something amazing together. Welcome to my GitHub.</div>
 
 ## GitHub Stats:
 
@@ -27,7 +14,7 @@ __________________
 </div>
 
   
-## Some technologies I'm use/ Alguma tecnologias que utilizo:
+## Some technologies I'm using:
 
 <p align="left">
   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
@@ -41,13 +28,21 @@ __________________
   <a><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
   <a><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+  </br>
+  <a><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   </br>
   <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </br>
-  <a><img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
     
 <!--
